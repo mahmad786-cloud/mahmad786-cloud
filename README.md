@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I am a software developer and creator of **[A1Lab](https://a1lab.tech)** — a free interactive online browser compiler and coding environment for computer science students and developers.
 
-### 🌐 My Projects & Platforms
-- 🚀 **[A1Lab](https://a1lab.tech)** - Practice HTML, CSS, JavaScript, and execute code online instantly.
+###  My Projects & Platforms
+-  **[A1Lab](https://a1lab.tech)** - Practice HTML, CSS, JavaScript, and execute code online instantly.
 
 ---
 
@@ -13,4 +13,4 @@ Welcome to my GitHub profile! I am a software developer and creator of **[A1Lab]
 
 ---
 
-🔗 **Live Platform:** [a1lab.tech](https://a1lab.tech)
+🔗 **Live Platform:** (https://a1lab.tech)
